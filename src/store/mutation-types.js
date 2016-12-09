@@ -1,0 +1,3 @@
+export const GO_TO_PROFILE = 'GO_TO_PROFILE'
+export const BACK_TO_LIST = 'BACK_TO_LIST'
+export const INIT_LIST_AND_PROFILE = 'INIT_LIST_AND_PROFILE'
