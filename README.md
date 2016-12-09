@@ -1,6 +1,5 @@
-#zuanye-jewelry-admin
-
-## 使用
+#vue-admin-seed
+使用vue做的web管理端。
 
 ```
 # 安装
